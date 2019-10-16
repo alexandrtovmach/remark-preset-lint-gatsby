@@ -3,6 +3,13 @@
   "version": "0.0.1",
   "description": "Remark preset with settings for Gatsby docs",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/alexandrtovmach/remark-preset-lint-gatsby/issues"
+  },
+  "homepage": "https://github.com/alexandrtovmach/remark-preset-lint-gatsby#readme",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +18,16 @@
     "remark-preset",
     "gatsby"
   ],
-  "author": "alexandrtovmach@gmail.com",
-  "license": "MIT"
+  "author": {
+    "name": "Alexandr Tovmach",
+    "email": "alexandrtovmach@gmail.com",
+    "url": "https://alexandrtovmach.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "remark-lint": "^6.0.5"
+  },
+  "devDependencies": {
+    "remark-cli": "^7.0.0"
+  }
 }
