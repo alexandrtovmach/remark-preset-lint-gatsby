@@ -1,0 +1,16 @@
+{
+  "name": "remark-preset-lint-gatsby",
+  "version": "0.0.1",
+  "description": "Remark preset with settings for Gatsby docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remark",
+    "remark-preset",
+    "gatsby"
+  ],
+  "author": "alexandrtovmach@gmail.com",
+  "license": "MIT"
+}
