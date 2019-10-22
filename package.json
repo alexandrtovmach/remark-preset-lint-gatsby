@@ -11,7 +11,8 @@
     "index.js"
   ],
   "scripts": {
-    "develop": "remark --rc-path ./index.js --quiet --watch ./templates/valid"
+    "develop": "remark --rc-path ./index.js --quiet --watch ./templates/valid",
+    "test": "remark --rc-path ./index.js -fq ./templates/valid"
   },
   "keywords": [
     "remark",
