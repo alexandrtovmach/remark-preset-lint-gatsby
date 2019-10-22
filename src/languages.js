@@ -1,4 +1,5 @@
 module.exports = [
+	null,
   "javascript",
   "js",
   "jsx",

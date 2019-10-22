@@ -35,5 +35,5 @@ module.exports.plugins = [
   [
     require("remark-lint-prohibited-strings"), // word grammar parse
     require("./src/words")
-  ],
+  ]
 ];
