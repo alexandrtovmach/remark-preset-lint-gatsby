@@ -17,6 +17,8 @@ module.exports.plugins = [
   [require("remark-lint-list-item-spacing"), false], // additional line for list item
   [require("remark-lint-maximum-line-length"), false], // max line length
   [require("remark-lint-no-emphasis-as-heading"), false], // custom stylization for headers
+  [require("remark-lint-no-heading-punctuation"), "."], // heading trailing punctuation
+  [require("remark-lint-maximum-heading-length"), 80], // max header length
   [require("remark-lint-ordered-list-marker-value"), false], // turned off until https://github.com/remarkjs/remark-lint/pull/219 will be merged
   [require("remark-lint-unordered-list-marker-style"), "-"], // unordered list markers
   [
