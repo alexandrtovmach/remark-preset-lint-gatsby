@@ -36,9 +36,6 @@ disableTableOfContents: true
 
 > 💡 If you're not using VS Code, check out the Prettier docs for [install instructions](https://prettier.io/docs/en/install.html) or [other editor integrations](https://prettier.io/docs/en/editors.html).
 
-
-
-
 Before you start building your first Gatsby site, you’ll need to familiarize yourself with some core web technologies and make sure that you have installed all required software tools.
 
 ## Familiarize yourself with the command line
