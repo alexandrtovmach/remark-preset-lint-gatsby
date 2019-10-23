@@ -8,7 +8,8 @@
   },
   "homepage": "https://github.com/alexandrtovmach/remark-preset-lint-gatsby#readme",
   "files": [
-    "index.js"
+    "index.js",
+		"src/*.js"
   ],
   "scripts": {
     "develop": "remark --rc-path ./index.js --quiet --watch ./templates/valid",
