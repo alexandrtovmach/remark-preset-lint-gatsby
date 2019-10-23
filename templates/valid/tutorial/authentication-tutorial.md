@@ -144,7 +144,7 @@ exports.onCreatePage = async ({ page, actions }) => {
 }
 ```
 
-> Note: There is a convenient plugin that already does this work for you: [gatsby-plugin-create-client-paths](/packages/gatsby-plugin-create-client-paths)
+> Note: There is a convenient plugin that already does this work for you: [`gatsby-plugin-create-client-paths`](/packages/gatsby-plugin-create-client-paths)
 
 Now, you must create a generic page that will have the task to generate the restricted content:
 
