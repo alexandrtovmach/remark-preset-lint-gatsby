@@ -1,6 +1,6 @@
 {
   "name": "remark-preset-lint-gatsby",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Remark preset with settings for Gatsby docs",
   "main": "index.js",
   "bugs": {
