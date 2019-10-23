@@ -1,6 +1,6 @@
 {
   "name": "remark-preset-lint-gatsby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remark preset with settings for Gatsby docs",
   "main": "index.js",
   "bugs": {
@@ -9,7 +9,7 @@
   "homepage": "https://github.com/alexandrtovmach/remark-preset-lint-gatsby#readme",
   "files": [
     "index.js",
-		"src/*.js"
+    "src/*.js"
   ],
   "scripts": {
     "develop": "remark --rc-path ./index.js --quiet --watch ./templates/valid",
