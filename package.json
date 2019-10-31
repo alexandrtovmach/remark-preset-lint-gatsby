@@ -33,10 +33,12 @@
     "remark-lint-checkbox-content-indent": "^1.0.3",
     "remark-lint-final-newline": "^1.0.3",
     "remark-lint-first-heading-level": "^1.1.4",
+    "remark-lint-mdash-style": "^1.1.1",
     "remark-lint-no-duplicate-headings-in-section": "^1.0.4",
     "remark-lint-no-heading-indent": "^1.0.3",
     "remark-lint-no-tabs": "^1.0.3",
     "remark-lint-no-trailing-spaces": "^2.0.1",
+    "remark-lint-ordered-list-marker-value": "^1.0.3",
     "remark-lint-prohibited-strings": "^1.2.0",
     "remark-preset-lint-markdown-style-guide": "^2.1.3"
   },
