@@ -9,9 +9,11 @@ module.exports.plugins = [
   require("remark-lint-checkbox-content-indent"), // checkbox indentation
   require("remark-lint-no-duplicate-headings-in-section"), // duplicate header string in a section
   require("remark-lint-final-newline"), // additional line at the end of file
+  require("remark-lint-mdash-style"), // mdash style
   require("remark-lint-no-heading-indent"), // prevent trailing space for headers
   require("remark-lint-no-tabs"), // force using spaces instead of tabs
   require("remark-lint-no-trailing-spaces"), // prevent trailing spaces for all blocks
+  require("remark-lint-ordered-list-marker-value"), // ol marker value
   [require("remark-lint-no-duplicate-headings"), false], // duplicate header string in a whole file
   [require("remark-lint-emphasis-marker"), "_"], // emphasis marker
   [require("remark-lint-first-heading-level"), 2], // first header level in top of file
