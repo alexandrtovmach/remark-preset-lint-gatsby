@@ -9,13 +9,17 @@ disableTableOfContents: true
 
 #### Ordered
 
-0.  [Set up your development environment](/tutorial/part-zero/): We'll introduce you to core technologies that power Gatsby, and guide you through setting up your development environment.
-1.  [Get to know Gatsby building blocks](/tutorial/part-one/): Starting new projects, developing, and deploying sites.
-2.  [Introduction to using CSS in Gatsby](/tutorial/part-two/): Explore libraries like Typography.js and CSS Modules.
+##### zero start
 
-1.  [Set up your development environment](/tutorial/part-zero/): We'll introduce you to core technologies that power Gatsby, and guide you through setting up your development environment.
-2.  [Get to know Gatsby building blocks](/tutorial/part-one/): Starting new projects, developing, and deploying sites.
-3.  [Introduction to using CSS in Gatsby](/tutorial/part-two/): Explore libraries like Typography.js and CSS Modules.
+0. [Set up your development environment](/tutorial/part-zero/): We'll introduce you to core technologies that power Gatsby, and guide you through setting up your development environment.
+1. [Get to know Gatsby building blocks](/tutorial/part-one/): Starting new projects, developing, and deploying sites.
+2. [Introduction to using CSS in Gatsby](/tutorial/part-two/): Explore libraries like Typography.js and CSS Modules.
+
+##### one start
+
+1. [Set up your development environment](/tutorial/part-zero/): We'll introduce you to core technologies that power Gatsby, and guide you through setting up your development environment.
+2. [Get to know Gatsby building blocks](/tutorial/part-one/): Starting new projects, developing, and deploying sites.
+3. [Introduction to using CSS in Gatsby](/tutorial/part-two/): Explore libraries like Typography.js and CSS Modules.
 
 #### Unordered
 
@@ -30,9 +34,9 @@ disableTableOfContents: true
    b. item B
 2. Two
    a. item A
-      - AA
-      - BB
-   b. item B
+   - AA
+   - BB
+     b. item B
 
 ### Checkbox
 
@@ -60,7 +64,7 @@ The command line is a text-based interface used to run commands on your computer
 
 ### Emphasis
 
-_Italic__
+_Italic_
 
 ### Codeblocks
 
